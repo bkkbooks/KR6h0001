@@ -1,0 +1,1717 @@
+canonical_identifier: bkk:krp/KR6h0001/v1
+canonical_location: https://kanripo.org/bkk/KR6h0001/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大方等大集經
+  identifiers:
+    alt_id:
+    - T13n0397
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T13/T13n0397.xml
+    old_id: T13n0397
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 聖
+  label: 聖
+  source_xml_id: wit5
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit6
+- short: 磧乙-CB
+  label: 磧乙-CB
+  source_xml_id: wit10
+- short: 麗乙
+  label: 麗乙
+  source_xml_id: wit13
+- short: 別
+  label: 別
+  source_xml_id: wit14
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit9
+- short: 房山-CB
+  label: 房山-CB
+  source_xml_id: wit8
+- short: 久
+  label: 久
+  source_xml_id: wit16
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6h0001_000.yaml, hash: 'sha256:393d034110bfc4fb7e3821453acbf8e07f7fc8d8ceb4918b2bf83d6e40484919'}
+  - {seq: 1, filename: KR6h0001_001.yaml, hash: 'sha256:03f0de097005f6aa577ead79312655772dbda58f72071068a44567bfbcbd77b8'}
+  - {seq: 2, filename: KR6h0001_002.yaml, hash: 'sha256:b8ba9c536c09ca225305108db84dc0215b479c30645dfe7db10c51f15d6e8f8e'}
+  - {seq: 3, filename: KR6h0001_003.yaml, hash: 'sha256:13699c450a304ddf52f40b5c2c0549d5ef12f3ec34ca27719eb6ded44f49b834'}
+  - {seq: 4, filename: KR6h0001_004.yaml, hash: 'sha256:c43952a458875fa039f73bedd18b0a713733d61d495e33f0aea85a39a6d25c4f'}
+  - {seq: 5, filename: KR6h0001_005.yaml, hash: 'sha256:a0d7d5b5a37498fa477907085c9d188f1a59e814cb3ffbcb66ac423782d91546'}
+  - {seq: 6, filename: KR6h0001_006.yaml, hash: 'sha256:1ac2f271a481734a23d411bc1ab9d0471b856de76308397ca5bcbfc2e5567013'}
+  - {seq: 7, filename: KR6h0001_007.yaml, hash: 'sha256:c5ba97cb43a805b56ee1b21e64d3a5f21357a3679c5d6568f95c06a2ee528388'}
+  - {seq: 8, filename: KR6h0001_008.yaml, hash: 'sha256:f7b900187f49a82b93329ea1fdf5ac731cee0769cb2d13bdbdce47f607f324d0'}
+  - {seq: 9, filename: KR6h0001_009.yaml, hash: 'sha256:9c9ee12dd5e200945f3b9e6e5c5aa40fa1a0d49429025b35d8ed2956cb8cdd21'}
+  - {seq: 10, filename: KR6h0001_010.yaml, hash: 'sha256:090a08fac99d20ad965390f6947207b0ab6614ffacf3d41e1392649c11359ea1'}
+  - {seq: 11, filename: KR6h0001_011.yaml, hash: 'sha256:28e6b90bf0e717893f5d787a0c34638e126fd9d21d5cd319285e742814babc1e'}
+  - {seq: 12, filename: KR6h0001_012.yaml, hash: 'sha256:1231adb22c1bb9a60ecd3a485d41c1a23e5dab46697b57c4c65054d20b25210b'}
+  - {seq: 13, filename: KR6h0001_013.yaml, hash: 'sha256:f6b53c066c43c28259d2237109e6c1afb6d9d4fd779d8115789c751dc050ca7b'}
+  - {seq: 14, filename: KR6h0001_014.yaml, hash: 'sha256:b5d73823ec18e7dcc258bb4fbb6f1822455cec769cf8409f09c5ebe3e2a33507'}
+  - {seq: 15, filename: KR6h0001_015.yaml, hash: 'sha256:4d595d7b540a263514d96eed1632973b31ae66faec896c9c9503649a22658bec'}
+  - {seq: 16, filename: KR6h0001_016.yaml, hash: 'sha256:56770c0ea62f0d68f78df6ce626c3a61700cd7ee825f41acb165ff61d8520ec3'}
+  - {seq: 17, filename: KR6h0001_017.yaml, hash: 'sha256:3273bbaa5528ebeedacfaf9da7f96f890175735f2f6c1a6c9e109844d4be5d74'}
+  - {seq: 18, filename: KR6h0001_018.yaml, hash: 'sha256:1a6d988ef68291e6cd8da41b62347735b3f6f7c052d9de4c4fc01616f9026081'}
+  - {seq: 19, filename: KR6h0001_019.yaml, hash: 'sha256:ef193eba3ad9ad2f7efcbfe1e8044ade1bb630e205eda2e0e3a1f60d9bebae83'}
+  - {seq: 20, filename: KR6h0001_020.yaml, hash: 'sha256:9b82c21e24a9bfefe98f4aa7d592beb6623b3988cf8d3a37e1d8f2ee2d9b8225'}
+  - {seq: 21, filename: KR6h0001_021.yaml, hash: 'sha256:ce420ccd3ea548c53b4e237b9e28e5810c248facad86bea8c0d85e3be4c8cfbb'}
+  - {seq: 22, filename: KR6h0001_022.yaml, hash: 'sha256:98a329c13b00c56cb84c0a0043d7733c218c3703d2a16ee9b1edce6039681d95'}
+  - {seq: 23, filename: KR6h0001_023.yaml, hash: 'sha256:2e39f566662cd78eaacfde82d25c225756202d81e599301acc0d9d9801d79705'}
+  - {seq: 24, filename: KR6h0001_024.yaml, hash: 'sha256:4e2ceffd5bf4a5225b36681d91e01d753b4ce7f1b987d519d3d13e9c9afee328'}
+  - {seq: 25, filename: KR6h0001_025.yaml, hash: 'sha256:39e6a329cbb2bbd7186a0665cf6a150ef8530ade85830e9b389aed4cea054c75'}
+  - {seq: 26, filename: KR6h0001_026.yaml, hash: 'sha256:515b2752fb7932458040e1642a7b649a23cb9e15318b8e947d43a5f4fa03a46e'}
+  - {seq: 27, filename: KR6h0001_027.yaml, hash: 'sha256:57614bf90ca875f0d959e3ef0a4a34b5993fda90be8bb1593436d981736f1464'}
+  - {seq: 28, filename: KR6h0001_028.yaml, hash: 'sha256:ecaa32dd2fc34fa8a32b8ecfe09c5d42431d1fc6f6eb98dcb0fcc03834fed605'}
+  - {seq: 29, filename: KR6h0001_029.yaml, hash: 'sha256:2a4b20275fb53ce5b4eccda8ac384700d4631c8d0fa47791eb2efdf5112220fe'}
+  - {seq: 30, filename: KR6h0001_030.yaml, hash: 'sha256:a5fd0cd164e5e5b68953af008ca1298ff4a9e4eb1c68509ffb9ff06cfc498af5'}
+  - {seq: 31, filename: KR6h0001_031.yaml, hash: 'sha256:4d058453edac5d1adafa20bc5737838a2be51c542070118f8d768a82e362d0ad'}
+  - {seq: 32, filename: KR6h0001_032.yaml, hash: 'sha256:da7ba492bcd991cbdb49d335c1ea3bd4e94cd061b8d3d837b27d03cd5aeb07e7'}
+  - {seq: 33, filename: KR6h0001_033.yaml, hash: 'sha256:57e77c2061f3ee5819a52015d32880824fb1f752e0bd7fdf658e93b247e1d347'}
+  - {seq: 34, filename: KR6h0001_034.yaml, hash: 'sha256:3c398bc7e317dd7976f11286d0049649bacd2353dcf0ddf86a1085dae9bad960'}
+  - {seq: 35, filename: KR6h0001_035.yaml, hash: 'sha256:b2e89969c53ae821023cf819dc4c98853edbf209b35273a281a2fd2159dbda09'}
+  - {seq: 36, filename: KR6h0001_036.yaml, hash: 'sha256:cf32a9de195e667a65f3ce3018fddc9a1332190fe3c06701f218c2e8e20250e9'}
+  - {seq: 37, filename: KR6h0001_037.yaml, hash: 'sha256:313a8f458548acefce132d85c57001dfa4e46da6b5788c7695c97d9963ef0bb5'}
+  - {seq: 38, filename: KR6h0001_038.yaml, hash: 'sha256:a9fac558a9e9756108dbc9884dadfc521b4145c407c399aeece19f833204e550'}
+  - {seq: 39, filename: KR6h0001_039.yaml, hash: 'sha256:d8b6809b5cbed055b371b80043b77a1889f9460a2cfcb752adf54fd7eb4c298d'}
+  - {seq: 40, filename: KR6h0001_040.yaml, hash: 'sha256:59ddabed470a544b7d944d294b9ff6861e9b9c1f1abbfac5b6f0eed593e1f952'}
+  - {seq: 41, filename: KR6h0001_041.yaml, hash: 'sha256:c3bb33b520769011d6d458ac9a47f35ee5bbf085905c638c621f6df544b3b90a'}
+  - {seq: 42, filename: KR6h0001_042.yaml, hash: 'sha256:2fe15d325ad6692cf427b5fc937b2c83cdc17fd99ec830eaf28c64f025527951'}
+  - {seq: 43, filename: KR6h0001_043.yaml, hash: 'sha256:537924de160497e6137554d5a24fe193bcb7429a59fb515093efaac563ab6cef'}
+  - {seq: 44, filename: KR6h0001_044.yaml, hash: 'sha256:09c2dda6c788a049269ee44a11c382cdb1d5c4aca537e63472a50af9f205c3a3'}
+  - {seq: 45, filename: KR6h0001_045.yaml, hash: 'sha256:0ddf6ff7dc3d059f510f6c3977a1443e7865d8cc1c2da8b3915f563224d5efa7'}
+  - {seq: 46, filename: KR6h0001_046.yaml, hash: 'sha256:e51550b7d521306b9ef21dd521173334b97b1eef5f92bc03012ff17b233b3c46'}
+  - {seq: 47, filename: KR6h0001_047.yaml, hash: 'sha256:550a8b63022bb303233f02e9de3c4dbe31c8e6a5f122c66461b2281d06d1e2c5'}
+  - {seq: 48, filename: KR6h0001_048.yaml, hash: 'sha256:7e05e331546eb917ff96fc79e43bb95857d771cf2e17e6918553e93d3a36d71f'}
+  - {seq: 49, filename: KR6h0001_049.yaml, hash: 'sha256:0e72f9f5a8479ea735d6b6d5039262ffeb66ef06f4ec5915a2a4a5c1639d4281'}
+  - {seq: 50, filename: KR6h0001_050.yaml, hash: 'sha256:c70f9c42b221e20cd37fde1dc6b6a754be9141ef26e1406e980d7f93bb8472cb'}
+  - {seq: 5, filename: KR6h0001_005.yaml, hash: 'sha256:a0d7d5b5a37498fa477907085c9d188f1a59e814cb3ffbcb66ac423782d91546'}
+  - {seq: 51, filename: KR6h0001_051.yaml, hash: 'sha256:146d8a3d959ed68e806a8a67615e12f077f4ebd162d9cc10aeda1ae985b05eed'}
+  - {seq: 52, filename: KR6h0001_052.yaml, hash: 'sha256:8f4d8e873aa3bf73a1e83f8de41074ad7e8a400f6124856c94e927eac90222ca'}
+  - {seq: 53, filename: KR6h0001_053.yaml, hash: 'sha256:f7d544d59fbd55f27104eebc319dde648bc0d517cbfc7e78eab56efb61a1a540'}
+  - {seq: 54, filename: KR6h0001_054.yaml, hash: 'sha256:9219df9378823887d17351c32cc8d9af091d50dc01e8f2fc57d9626ea1786c0b'}
+  - {seq: 55, filename: KR6h0001_055.yaml, hash: 'sha256:887869a53488736a8a52b21e4f9fcade2725a024aee4d7bee5c37c6dded4a212'}
+  - {seq: 56, filename: KR6h0001_056.yaml, hash: 'sha256:b502f36ba7151ce4c2564e4e14edd3e84cb9e41b44dff438c6388f92778defbe'}
+  - {seq: 57, filename: KR6h0001_057.yaml, hash: 'sha256:02882b5573b4b59bd262aef1d269fe3ca0c784afe86c3008bd855ba04a3c52bd'}
+  - {seq: 58, filename: KR6h0001_058.yaml, hash: 'sha256:6934fd74e3d5ae1b911c7944f2a009249c6cb764cb6b7f9129c474c43c0211e5'}
+  - {seq: 59, filename: KR6h0001_059.yaml, hash: 'sha256:55f7ab8fa4ee2016974ebf434dcf9a393ac5a57472e43d534557039f1373ad7b'}
+  - {seq: 60, filename: KR6h0001_060.yaml, hash: 'sha256:9767daa0de97fdab9c296751e85cfc11aab842bbea487442f13e2ba485aa7366'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6h0001_001.markers.yaml, hash: 'sha256:9cecb7bba3faf3b577337878ae2b1992aa25003b8f5ed6f327094009e7bc516b'}
+  - {seq: 2, role: markers, filename: assets/KR6h0001_002.markers.yaml, hash: 'sha256:487d1a09752143139413e785a50050d6adc2c638df72eb2bd93fd163ab4d6d0f'}
+  - {seq: 3, role: markers, filename: assets/KR6h0001_003.markers.yaml, hash: 'sha256:6e33d35bb08500b41a84f67097fd6417cd9810e9abae188dda9a888b22a8ecb2'}
+  - {seq: 4, role: markers, filename: assets/KR6h0001_004.markers.yaml, hash: 'sha256:b3eb99e04bc34cb4a1865d45cb50cfe0f349edc49f3a8db27bcd2ca13e773a93'}
+  - {seq: 5, role: markers, filename: assets/KR6h0001_005.markers.yaml, hash: 'sha256:445d33ab671d594f3c566f8a9af3cf229d2db5e72cac87f6e3eb1ef38726b4a7'}
+  - {seq: 6, role: markers, filename: assets/KR6h0001_006.markers.yaml, hash: 'sha256:ab93ae7f535b138b1205504c9064c378906aa0b4a694e3a3de065af1e3aba336'}
+  - {seq: 7, role: markers, filename: assets/KR6h0001_007.markers.yaml, hash: 'sha256:af0c9d6c5f5b88b2189d10e37634e3f15288c5a5a819b482c9059547eab4a218'}
+  - {seq: 8, role: markers, filename: assets/KR6h0001_008.markers.yaml, hash: 'sha256:96d5a613ac569558c74b63d7d90b60c9d92dd06cf0fd3b0401ffdb1deaf7795e'}
+  - {seq: 9, role: markers, filename: assets/KR6h0001_009.markers.yaml, hash: 'sha256:6f408cc274aa30d9743584f74a1f30d3dcc9babfdc651e3a047c4e17fc852178'}
+  - {seq: 10, role: markers, filename: assets/KR6h0001_010.markers.yaml, hash: 'sha256:7967a2669284af6a12d62d4afe686074b0b4dfbd01d53fad9122a2c87e9e11f7'}
+  - {seq: 11, role: markers, filename: assets/KR6h0001_011.markers.yaml, hash: 'sha256:3cc6e3080b95ce81b5d53a5b9f4c00699f514590cf1e2a513e125c8506e2655d'}
+  - {seq: 12, role: markers, filename: assets/KR6h0001_012.markers.yaml, hash: 'sha256:d1ea47ad5cd439a866291536c6f200303429055f5738f9f2696c028e8dce27ab'}
+  - {seq: 13, role: markers, filename: assets/KR6h0001_013.markers.yaml, hash: 'sha256:6b652b80cc0ec5a6b2ed7eba0b0963fa3f6cadb420dbbef7c434126b5c39d04c'}
+  - {seq: 14, role: markers, filename: assets/KR6h0001_014.markers.yaml, hash: 'sha256:410f10eb0f70b34831f488a798c9f2bd3eafabc704f561bbbf954ffc628f6f00'}
+  - {seq: 15, role: markers, filename: assets/KR6h0001_015.markers.yaml, hash: 'sha256:1104c82bc35655c09fbd699cdea3866c12e58aa3e8919add7858c6ea0dacc6b4'}
+  - {seq: 16, role: markers, filename: assets/KR6h0001_016.markers.yaml, hash: 'sha256:208a53b0d3c4311536a3cb504ba927be2289a9b85107fac8a939b6387b863410'}
+  - {seq: 17, role: markers, filename: assets/KR6h0001_017.markers.yaml, hash: 'sha256:a8759718caa1a1419a7ca139939b8c9ff81a1d560c5b03217f00884979b32fac'}
+  - {seq: 18, role: markers, filename: assets/KR6h0001_018.markers.yaml, hash: 'sha256:675b7a7b3e0f29cb199d0bb5fd4ed6d2ca4fb19174215a0458325142987ccf34'}
+  - {seq: 19, role: markers, filename: assets/KR6h0001_019.markers.yaml, hash: 'sha256:65988d3276e5c6c9a0c3daa54ab143288caa959f519f014cbb7c700802349243'}
+  - {seq: 20, role: markers, filename: assets/KR6h0001_020.markers.yaml, hash: 'sha256:e91023a7d9c833d236517b9b3dae0100fe49ff564323e7c77c727347887a2cf6'}
+  - {seq: 21, role: markers, filename: assets/KR6h0001_021.markers.yaml, hash: 'sha256:b717fafb29f14ec7ee6fea36ab61c10fb4f8f89fc947ec5fcecafe18986fc87c'}
+  - {seq: 22, role: markers, filename: assets/KR6h0001_022.markers.yaml, hash: 'sha256:4134654adc525ef55da670f91c9fa0c29e844b20bb308c8845fa92a1cab1eaf1'}
+  - {seq: 23, role: markers, filename: assets/KR6h0001_023.markers.yaml, hash: 'sha256:675e1b332e44854c8148fe561dd92b7df362bf6d8a988faed0ff1f743e14eb88'}
+  - {seq: 24, role: markers, filename: assets/KR6h0001_024.markers.yaml, hash: 'sha256:d46abd15fdaf80b87f0d74205f01f0315e71754e0b36377b6c8a0d445c682ff2'}
+  - {seq: 25, role: markers, filename: assets/KR6h0001_025.markers.yaml, hash: 'sha256:2f246262f5cfaf32523b281cf602944e7dde26dd965ee92bfb2f7e4456c42fb7'}
+  - {seq: 26, role: markers, filename: assets/KR6h0001_026.markers.yaml, hash: 'sha256:7759b8c5cb43676e97bea01a72bb223daf34f511f664a4ff2143bd378a00e697'}
+  - {seq: 27, role: markers, filename: assets/KR6h0001_027.markers.yaml, hash: 'sha256:b29c34a52d02996856fd0d21d16761315702d033be8216dc75e7c2c154c2beb1'}
+  - {seq: 28, role: markers, filename: assets/KR6h0001_028.markers.yaml, hash: 'sha256:e3ed9750c4ee276077eafe3bbb2efe56c62de4d6b90906ef8a93fa9f54c403a8'}
+  - {seq: 29, role: markers, filename: assets/KR6h0001_029.markers.yaml, hash: 'sha256:a7c34eea3bb5914f2e9eaa454e530dac8b81440f48753a517fa18151ea855365'}
+  - {seq: 30, role: markers, filename: assets/KR6h0001_030.markers.yaml, hash: 'sha256:ac1e133d9faa8fff06e744800bf8bbea0677234c6525c4add38fdbc6900032e3'}
+  - {seq: 31, role: markers, filename: assets/KR6h0001_031.markers.yaml, hash: 'sha256:be6f7fbf621f7e73f57b67c7a0fc367fca626eb8a253babaa91002bb46655346'}
+  - {seq: 32, role: markers, filename: assets/KR6h0001_032.markers.yaml, hash: 'sha256:607855aa38e344e3e3381f9a03828d3d9c8a7381d52ded43005a30a66b30c78c'}
+  - {seq: 33, role: markers, filename: assets/KR6h0001_033.markers.yaml, hash: 'sha256:4d45a8d430c4453445f5a5ef83d249c8701d83dd676cf71884b0ff6eeed45cae'}
+  - {seq: 34, role: markers, filename: assets/KR6h0001_034.markers.yaml, hash: 'sha256:a95584a80edcd693df73fc4a4559e9444dd85eb86159e2758c3437593db91a02'}
+  - {seq: 35, role: markers, filename: assets/KR6h0001_035.markers.yaml, hash: 'sha256:fb1d90d5c1771ec654ef3591463823e2e796a1d06622693c4d811bb9f64e4c8f'}
+  - {seq: 36, role: markers, filename: assets/KR6h0001_036.markers.yaml, hash: 'sha256:0596cdf5bdfee7f0793bfe152b9ec78e8f3e0f5d28446f9c4cc304c0308ec955'}
+  - {seq: 37, role: markers, filename: assets/KR6h0001_037.markers.yaml, hash: 'sha256:2aaed433033b31e5ce78adc9ea6cc4237082c269e4b4d9db0234806ad70e0395'}
+  - {seq: 38, role: markers, filename: assets/KR6h0001_038.markers.yaml, hash: 'sha256:024664dbad66b93f0faedddcbf19ebcc273e067b4ac6d83c3b636ed98c4fc847'}
+  - {seq: 39, role: markers, filename: assets/KR6h0001_039.markers.yaml, hash: 'sha256:60df9e7f4a96ebe3c28ab8baaed4f0f2ba8cbbce8925c1014c7ddc0c519e2dde'}
+  - {seq: 40, role: markers, filename: assets/KR6h0001_040.markers.yaml, hash: 'sha256:5e3464091d5b5adf90c172d94b0677feb6e49c5042edb37d0521182b96b863bb'}
+  - {seq: 41, role: markers, filename: assets/KR6h0001_041.markers.yaml, hash: 'sha256:7f310a51108c26db31bcf27ccfff9c16814d3fdfceef4581b54586402fafcb54'}
+  - {seq: 42, role: markers, filename: assets/KR6h0001_042.markers.yaml, hash: 'sha256:2c384aa447958d95872721281865ddb2bb76398e3c81a4b879b8b72b37b27155'}
+  - {seq: 43, role: markers, filename: assets/KR6h0001_043.markers.yaml, hash: 'sha256:04a62654164c7488836eeaa0458b7ff390dc734e1c87da6f6f14853891a1b0b7'}
+  - {seq: 44, role: markers, filename: assets/KR6h0001_044.markers.yaml, hash: 'sha256:4a35293aa9db014ad130d2a50d49415775665fa69f84b23ce4dbfed5aada7537'}
+  - {seq: 45, role: markers, filename: assets/KR6h0001_045.markers.yaml, hash: 'sha256:53f3ac356b5320db0c71ac0b3a41ff6522a040ca8efdccdeb294e8feb8b9fdb0'}
+  - {seq: 46, role: markers, filename: assets/KR6h0001_046.markers.yaml, hash: 'sha256:02f5cc427fddfee51e0d7b944c479ce3743b434fd9eb393b64901c8de99cbe6f'}
+  - {seq: 47, role: markers, filename: assets/KR6h0001_047.markers.yaml, hash: 'sha256:3c44038cb49906f734e319ce8daaa155d392851d7a052aacdfd23e1d6012c1f8'}
+  - {seq: 48, role: markers, filename: assets/KR6h0001_048.markers.yaml, hash: 'sha256:78990e15875de80edff9c9e0f3558440f8c01f1e3ea3a8d314f9e8aa3fe1db7d'}
+  - {seq: 49, role: markers, filename: assets/KR6h0001_049.markers.yaml, hash: 'sha256:c7f8731cd5231d138d32e93f913257e0438105ac49abd60c925a7be5cbdae6d2'}
+  - {seq: 50, role: markers, filename: assets/KR6h0001_050.markers.yaml, hash: 'sha256:f1092defe830401715c9ea16d1f7fa9253b5c82018501422eb6a171bb66718df'}
+  - {seq: 51, role: markers, filename: assets/KR6h0001_051.markers.yaml, hash: 'sha256:cb27969eaa78641f93e5c0fcded9e2bdc19ac952fdffa1954fe9a52a18d9cb2e'}
+  - {seq: 52, role: markers, filename: assets/KR6h0001_052.markers.yaml, hash: 'sha256:56459091179c914da04ed4ee98191fbd2d1b700aff5f995f4a4e032beabbab8e'}
+  - {seq: 53, role: markers, filename: assets/KR6h0001_053.markers.yaml, hash: 'sha256:1229086c64e758ae5f2c58184de3d9e95bdbe9af8e70699493827ea250fa151d'}
+  - {seq: 54, role: markers, filename: assets/KR6h0001_054.markers.yaml, hash: 'sha256:b3d618395dcc9dd86501646f2bc1140bfc7714c430369183d4ae21989ca947f8'}
+  - {seq: 55, role: markers, filename: assets/KR6h0001_055.markers.yaml, hash: 'sha256:c45505120ee504f168d0e712a93ac8b698c08f4dca9f8577cf70932e00004767'}
+  - {seq: 56, role: markers, filename: assets/KR6h0001_056.markers.yaml, hash: 'sha256:76c07b481d7abdf7b3851e8fda872f91441738877b1558f724f7479ea0ef8909'}
+  - {seq: 57, role: markers, filename: assets/KR6h0001_057.markers.yaml, hash: 'sha256:1b0269159e0a22a39664eab3c8c9ed1b10165ad18bff4dfc6ae16b46d21a7ff0'}
+  - {seq: 58, role: markers, filename: assets/KR6h0001_058.markers.yaml, hash: 'sha256:1ec10bb839912f4209c796f1828a5d012822351a91df103e24a6a9ab990e07a4'}
+  - {seq: 59, role: markers, filename: assets/KR6h0001_059.markers.yaml, hash: 'sha256:55553ff98c455bd8393256cb160a543337f2357aa778efc1242b6483c7624f77'}
+  - {seq: 60, role: markers, filename: assets/KR6h0001_060.markers.yaml, hash: 'sha256:98492c9963ae86e96f1254ce46a808aa34e74a85dcaefa9540c099c26b7890b0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6h0001_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10425
+  label: 大方等大集經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6h0001_T_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 1 瓔珞品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6h0001_T_001-mulu-2
+    span:
+    - body
+    - 6034
+    - 6034
+  label: 2 陀羅尼自在王菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6h0001_T_001-mulu-3
+    span:
+    - body
+    - 6034
+    - 6034
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6h0001_T_001-mulu-4
+    span:
+    - body
+    - 9529
+    - 9529
+  label: 校正後序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0001_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7639
+  label: 大方等大集經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6h0001_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 10435
+  label: 大方等大集經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6h0001_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 8634
+  label: 大方等大集經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6h0001_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7527
+  label: 大方等大集經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6h0001_T_005-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 3 寶女品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6h0001_T_005-mulu-2
+    span:
+    - body
+    - 13
+    - 13
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6h0001_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 9453
+  label: 大方等大集經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6h0001_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 8361
+  label: 大方等大集經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6h0001_T_007-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 4 不眴菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6h0001_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 8159
+  label: 大方等大集經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6h0001_T_008-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 5 海慧菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6h0001_T_008-mulu-2
+    span:
+    - body
+    - 13
+    - 13
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6h0001_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 11044
+  label: 大方等大集經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6h0001_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 9617
+  label: 大方等大集經卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6h0001_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 10496
+  label: 大方等大集經卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6h0001_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 12841
+  label: 大方等大集經卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6h0001_T_012-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 6 無言菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6h0001_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 12979
+  label: 大方等大集經卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6h0001_T_013-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 7 不可說菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6h0001_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 9722
+  label: 大方等大集經卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6h0001_T_014-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 8 虛空藏品
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6h0001_T_014-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6h0001_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 10833
+  label: 大方等大集經卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6h0001_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 8565
+  label: 大方等大集經卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6h0001_T_017-juan-start
+    span:
+    - body
+    - 0
+    - 10863
+  label: 大方等大集經卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6h0001_T_018-juan-start
+    span:
+    - body
+    - 0
+    - 8052
+  label: 大方等大集經卷第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6h0001_T_019-juan-start
+    span:
+    - body
+    - 0
+    - 11786
+  label: 大方等大集經卷第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6h0001_T_019-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 9 寶幢分
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6h0001_T_019-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 魔苦品
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6h0001_T_019-mulu-3
+    span:
+    - body
+    - 3396
+    - 3396
+  label: 2 往古品
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6h0001_T_019-mulu-4
+    span:
+    - body
+    - 7399
+    - 7399
+  label: 3 魔調伏品
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6h0001_T_020-juan-start
+    span:
+    - body
+    - 0
+    - 8583
+  label: 大方等大集經卷第二十
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6h0001_T_020-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 4 三昧神足品
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6h0001_T_020-mulu-2
+    span:
+    - body
+    - 4657
+    - 4657
+  label: 5 相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6h0001_T_021-juan-start
+    span:
+    - body
+    - 0
+    - 15445
+  label: 大方等大集經卷第二十一
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6h0001_T_021-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 6 陀羅尼品
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6h0001_T_021-mulu-2
+    span:
+    - body
+    - 5854
+    - 5854
+  label: 7 護品
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6h0001_T_021-mulu-3
+    span:
+    - body
+    - 6658
+    - 6658
+  label: 8 授記品
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6h0001_T_021-mulu-4
+    span:
+    - body
+    - 8498
+    - 8498
+  label: 9 悲品
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6h0001_T_021-mulu-5
+    span:
+    - body
+    - 9135
+    - 9135
+  label: 10 護法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6h0001_T_021-mulu-6
+    span:
+    - body
+    - 10130
+    - 10130
+  label: 11 四天王護法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6h0001_T_021-mulu-7
+    span:
+    - body
+    - 11991
+    - 11991
+  label: 12 曠野鬼品
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6h0001_T_021-mulu-8
+    span:
+    - body
+    - 13379
+    - 13379
+  label: 13 還本品
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6h0001_T_022-juan-start
+    span:
+    - body
+    - 0
+    - 12264
+  label: 大方等大集經卷第二十二
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6h0001_T_022-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 10 虛空目分
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6h0001_T_022-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 聲聞品
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6h0001_T_023-juan-start
+    span:
+    - body
+    - 0
+    - 9241
+  label: 大方等大集經卷第二十三
+  type: juan
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6h0001_T_023-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 2 世間目品
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6h0001_T_023-mulu-2
+    span:
+    - body
+    - 1597
+    - 1597
+  label: 3 彌勒品
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6h0001_T_023-mulu-3
+    span:
+    - body
+    - 3131
+    - 3131
+  label: 4 四無量心品
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6h0001_T_023-mulu-4
+    span:
+    - body
+    - 4720
+    - 4720
+  label: 5 淨目品
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6h0001_T_024-juan-start
+    span:
+    - body
+    - 0
+    - 6257
+  label: 大方等大集經卷第二十四
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6h0001_T_024-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 6 聖目品
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6h0001_T_024-mulu-2
+    span:
+    - body
+    - 2390
+    - 2390
+  label: 7 辟支佛乘品
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6h0001_T_024-mulu-3
+    span:
+    - body
+    - 2714
+    - 2714
+  label: 8 聖無礙智品
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6h0001_T_024-mulu-4
+    span:
+    - body
+    - 3930
+    - 3930
+  label: 9 護法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6h0001_T_024-mulu-5
+    span:
+    - body
+    - 5800
+    - 5800
+  label: 10 大眾還品
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6h0001_T_025-juan-start
+    span:
+    - body
+    - 0
+    - 7718
+  label: 大方等大集經卷第二十五
+  type: juan
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6h0001_T_025-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 11 寶髻菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6h0001_T_025-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6h0001_T_026-juan-start
+    span:
+    - body
+    - 0
+    - 7100
+  label: 大方等大集經卷第二十六
+  type: juan
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6h0001_T_027-juan-start
+    span:
+    - body
+    - 0
+    - 11265
+  label: 大方等大集經卷第二十七
+  type: juan
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6h0001_T_027-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 12 無盡意菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6h0001_T_027-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6h0001_T_028-juan-start
+    span:
+    - body
+    - 0
+    - 10341
+  label: 大方等大集經卷第二十八
+  type: juan
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6h0001_T_029-juan-start
+    span:
+    - body
+    - 0
+    - 8886
+  label: 大方等大集經卷第二十九
+  type: juan
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6h0001_T_030-juan-start
+    span:
+    - body
+    - 0
+    - 10906
+  label: 大方等大集經卷第三十
+  type: juan
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6h0001_T_031-juan-start
+    span:
+    - body
+    - 0
+    - 8701
+  label: 大方等大集經卷第三十一
+  type: juan
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6h0001_T_031-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 13 日密分
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6h0001_T_031-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 護法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6h0001_T_031-mulu-3
+    span:
+    - body
+    - 3889
+    - 3889
+  label: 2 四方菩薩集品
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6h0001_T_032-juan-start
+    span:
+    - body
+    - 0
+    - 7984
+  label: 大方等大集經卷第三十二
+  type: juan
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6h0001_T_032-mulu-1
+    span:
+    - body
+    - 3936
+    - 3936
+  label: 3 分別說欲品
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6h0001_T_032-mulu-2
+    span:
+    - body
+    - 4292
+    - 4292
+  label: 4 分別品
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6h0001_T_032-mulu-3
+    span:
+    - body
+    - 4292
+    - 4292
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6h0001_T_033-juan-start
+    span:
+    - body
+    - 0
+    - 10109
+  label: 大方等大集經卷第三十三
+  type: juan
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6h0001_T_034-juan-start
+    span:
+    - body
+    - 0
+    - 8430
+  label: 大方等大集經卷第三十四
+  type: juan
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6h0001_T_034-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 14 日藏分
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6h0001_T_034-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 1 護持正法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6h0001_T_035-juan-start
+    span:
+    - body
+    - 0
+    - 8668
+  label: 大方等大集經卷第三十五
+  type: juan
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6h0001_T_035-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 2 陀羅尼品
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6h0001_T_035-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6h0001_T_036-juan-start
+    span:
+    - body
+    - 0
+    - 7558
+  label: 大方等大集經卷第三十六
+  type: juan
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6h0001_T_037-juan-start
+    span:
+    - body
+    - 0
+    - 6987
+  label: 大方等大集經卷第三十七
+  type: juan
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6h0001_T_037-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 3 菩薩使品
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6h0001_T_038-juan-start
+    span:
+    - body
+    - 0
+    - 10066
+  label: 大方等大集經卷第三十八
+  type: juan
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6h0001_T_038-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 4 定品
+  type: mulu
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6h0001_T_039-juan-start
+    span:
+    - body
+    - 0
+    - 7214
+  label: 大方等大集經卷第三十九
+  type: juan
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6h0001_T_039-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 5 惡業集品
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6h0001_T_040-juan-start
+    span:
+    - body
+    - 0
+    - 5785
+  label: 大方等大集經卷第四十
+  type: juan
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6h0001_T_040-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 6 護持品
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6h0001_T_040-mulu-2
+    span:
+    - body
+    - 2924
+    - 2924
+  label: 7 佛現神通品
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6h0001_T_041-juan-start
+    span:
+    - body
+    - 0
+    - 7146
+  label: 大方等大集經卷第四十一
+  type: juan
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6h0001_T_041-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 8 星宿品
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6h0001_T_041-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6h0001_T_042-juan-start
+    span:
+    - body
+    - 0
+    - 9125
+  label: 大方等大集經卷第四十二
+  type: juan
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6h0001_T_043-juan-start
+    span:
+    - body
+    - 0
+    - 9218
+  label: 大方等大集經卷第四十三
+  type: juan
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6h0001_T_043-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 9 送使品
+  type: mulu
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6h0001_T_043-mulu-2
+    span:
+    - body
+    - 2646
+    - 2646
+  label: 10 念佛三昧品
+  type: mulu
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6h0001_T_043-mulu-3
+    span:
+    - body
+    - 5842
+    - 5842
+  label: 11 昇須彌山頂品
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6h0001_T_044-juan-start
+    span:
+    - body
+    - 0
+    - 5824
+  label: 大方等大集經卷第四十四
+  type: juan
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6h0001_T_044-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 12 三歸濟龍品
+  type: mulu
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR6h0001_T_045-juan-start
+    span:
+    - body
+    - 0
+    - 6204
+  label: 大方等大集經卷第四十五
+  type: juan
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR6h0001_T_045-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 13 護塔品
+  type: mulu
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR6h0001_T_046-juan-start
+    span:
+    - body
+    - 0
+    - 7196
+  label: 大方等大集經卷第四十六
+  type: juan
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR6h0001_T_046-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 15 月藏分
+  type: mulu
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR6h0001_T_046-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 1 月幢神咒品
+  type: mulu
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6h0001_T_047-juan-start
+    span:
+    - body
+    - 0
+    - 9734
+  label: 大方等大集經卷第四十七
+  type: juan
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6h0001_T_047-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 2 魔王波旬詣佛所品
+  type: mulu
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6h0001_T_047-mulu-2
+    span:
+    - body
+    - 2796
+    - 2796
+  label: 3 諸阿修羅詣佛所品
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6h0001_T_048-juan-start
+    span:
+    - body
+    - 0
+    - 9508
+  label: 大方等大集經卷第四十八
+  type: juan
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6h0001_T_048-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 4 本事品
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6h0001_T_048-mulu-2
+    span:
+    - body
+    - 2836
+    - 2836
+  label: 5 第一義諦品
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6h0001_T_049-juan-start
+    span:
+    - body
+    - 0
+    - 7197
+  label: 大方等大集經卷第四十九
+  type: juan
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6h0001_T_049-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 6 令魔得信樂品
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6h0001_T_049-mulu-2
+    span:
+    - body
+    - 3072
+    - 3072
+  label: 7 一切鬼神集會品
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6h0001_T_050-juan-start
+    span:
+    - body
+    - 0
+    - 9077
+  label: 大方等大集經卷第五十
+  type: juan
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6h0001_T_050-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 8 諸惡鬼神得敬信品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6h0001_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 8664
+  label: 大方等大集月藏經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR6h0001_T_051-juan-start
+    span:
+    - body
+    - 0
+    - 8888
+  label: 大方等大集經卷第五十一
+  type: juan
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR6h0001_T_051-mulu-1
+    span:
+    - body
+    - 5563
+    - 5563
+  label: 9 諸天王護持品
+  type: mulu
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR6h0001_T_052-juan-start
+    span:
+    - body
+    - 0
+    - 9912
+  label: 大方等大集經卷第五十二
+  type: juan
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR6h0001_T_052-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 10 諸魔得敬信品
+  type: mulu
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR6h0001_T_052-mulu-2
+    span:
+    - body
+    - 2527
+    - 2527
+  label: 11 提頭賴吒天王護持品
+  type: mulu
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR6h0001_T_052-mulu-3
+    span:
+    - body
+    - 5113
+    - 5113
+  label: 12 毘樓勒叉天王品
+  type: mulu
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR6h0001_T_052-mulu-4
+    span:
+    - body
+    - 6353
+    - 6353
+  label: 13 毘樓博叉天王品
+  type: mulu
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR6h0001_T_052-mulu-5
+    span:
+    - body
+    - 7357
+    - 7357
+  label: 14 毘沙門天王品
+  type: mulu
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6h0001_T_053-juan-start
+    span:
+    - body
+    - 0
+    - 7071
+  label: 大方等大集經卷第五十三
+  type: juan
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6h0001_T_053-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 15 咒輪護持品
+  type: mulu
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6h0001_T_053-mulu-2
+    span:
+    - body
+    - 1269
+    - 1269
+  label: 16 忍辱品
+  type: mulu
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6h0001_T_053-mulu-3
+    span:
+    - body
+    - 1269
+    - 1269
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR6h0001_T_054-juan-start
+    span:
+    - body
+    - 0
+    - 6646
+  label: 大方等大集經卷第五十四
+  type: juan
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR6h0001_T_055-juan-start
+    span:
+    - body
+    - 0
+    - 10883
+  label: 大方等大集經卷第五十五
+  type: juan
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR6h0001_T_055-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 17 分布閻浮提品
+  type: mulu
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR6h0001_T_056-juan-start
+    span:
+    - body
+    - 0
+    - 11978
+  label: 大方等大集經卷第五十六
+  type: juan
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR6h0001_T_056-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 18 星宿攝受品
+  type: mulu
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR6h0001_T_056-mulu-2
+    span:
+    - body
+    - 3511
+    - 3511
+  label: 19 建立塔寺品
+  type: mulu
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR6h0001_T_056-mulu-3
+    span:
+    - body
+    - 5068
+    - 5068
+  label: 20 法滅盡品
+  type: mulu
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR6h0001_T_057-juan-start
+    span:
+    - body
+    - 0
+    - 8856
+  label: 大方等大集經卷第五十七
+  type: juan
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR6h0001_T_057-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 16 須彌藏分
+  type: mulu
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR6h0001_T_057-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 1 聲聞品
+  type: mulu
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR6h0001_T_057-mulu-3
+    span:
+    - body
+    - 2411
+    - 2411
+  label: 2 菩薩禪本業品
+  type: mulu
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR6h0001_T_057-mulu-4
+    span:
+    - body
+    - 4424
+    - 4424
+  label: 3 滅非時風雨品
+  type: mulu
+  level: 1
+- ref:
+    seq: 58
+    marker_id: KR6h0001_T_058-juan-start
+    span:
+    - body
+    - 0
+    - 8225
+  label: 大方等大集經卷第五十八
+  type: juan
+  level: 1
+- ref:
+    seq: 58
+    marker_id: KR6h0001_T_058-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 4 陀羅尼品
+  type: mulu
+  level: 1
+- ref:
+    seq: 59
+    marker_id: KR6h0001_T_059-juan-start
+    span:
+    - body
+    - 0
+    - 9820
+  label: 大方等大集經卷第五十九
+  type: juan
+  level: 1
+- ref:
+    seq: 59
+    marker_id: KR6h0001_T_059-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 17 十方菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 60
+    marker_id: KR6h0001_T_060-juan-start
+    span:
+    - body
+    - 0
+    - 8578
+  label: 大方等大集經卷第六十
+  type: juan
+  level: 1
+hash: sha256:0c3ce20f80099cd22aad9e9860f5b088ceea10f3ded1ebab462fb15666703427
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
